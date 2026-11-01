@@ -34,23 +34,18 @@ const me = {
 
 ### Projects
 
-[![woozworld-proximity-voice-chat](https://github-readme-stats.vercel.app/api/pin/?username=fallingdown32&repo=woozworld-proximity-voice-chat&theme=github_dark&hide_border=true&title_color=3ddc84&icon_color=3ddc84)](https://github.com/fallingdown32/woozworld-proximity-voice-chat)
+**[woozworld-proximity-voice-chat](https://github.com/fallingdown32/woozworld-proximity-voice-chat)**: talk to people standing near you in Woozworld, because typing is hard.
 
-Talk to people standing near you in Woozworld, because typing is hard.
+![Stars](https://img.shields.io/github/stars/fallingdown32/woozworld-proximity-voice-chat?style=flat-square&color=3ddc84)
+![Downloads](https://img.shields.io/github/downloads/fallingdown32/woozworld-proximity-voice-chat/total?style=flat-square&color=3ddc84)
+![Last commit](https://img.shields.io/github/last-commit/fallingdown32/woozworld-proximity-voice-chat?style=flat-square&color=8ab4ff)
 
 ### Stats nobody asked for
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fallingdown32&show_icons=true&theme=github_dark&hide_border=true&title_color=3ddc84&icon_color=3ddc84" height="160" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingdown32&layout=compact&theme=github_dark&hide_border=true&title_color=3ddc84" height="160" alt="languages">
+<img src="https://streak-stats.demolab.com?user=fallingdown32&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84" alt="streak">
 
-</div>
-
----
-
-<div align="center">
-
-> "It's not a bug, it's a surprise." (me, every time)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallingdown32&theme=github_dark" alt="profile summary">
 
 </div>
